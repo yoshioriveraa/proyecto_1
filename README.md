@@ -2,7 +2,6 @@
 Presento una pequeña calculadora usando solo if y else.
 
 Iniciacion=input("¿Quieres que se inicia la calculadora?, escriba si o no:")
-
 if Iniciacion == "si":
 	a=int(input("Ingrese el primer número:"))
 	b=int(input("Ingrese el segundo número:"))
